@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <strong>Hello there !! I am InnovatorDev who particularly interested in front-end and back-end development. 
+    <strong>I am InnovatorDev who particularly interested in front-end and back-end development. 
       <br>I also have a growing interest in Data Structure, Computer Science Stuffs, Machine Learning. </strong><br><br></p>
 
 
